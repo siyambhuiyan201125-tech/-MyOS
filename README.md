@@ -15,4 +15,4 @@ MyOS is a learning project to understand how operating systems work.
 Project started. Development and learning are in progress.
 
 ## Developer
-Siyam
+Siyam Bhuiyan 
